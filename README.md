@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Hi! Welcome to my github page. Check out my projects at the link below!
+http://snigdha.kalathur.com
 <!--
 **snigdhakalathur/snigdhakalathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
